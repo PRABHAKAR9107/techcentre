@@ -1,0 +1,23 @@
+{
+  "main.css": "/techcentre/static/css/main.d0d02e63.chunk.css",
+  "main.js": "/techcentre/static/js/main.a3bb9728.chunk.js",
+  "main.js.map": "/techcentre/static/js/main.a3bb9728.chunk.js.map",
+  "runtime~main.js": "/techcentre/static/js/runtime~main.ec5e4b43.js",
+  "runtime~main.js.map": "/techcentre/static/js/runtime~main.ec5e4b43.js.map",
+  "static/css/2.6ec14f20.chunk.css": "/techcentre/static/css/2.6ec14f20.chunk.css",
+  "static/js/2.47896b8d.chunk.js": "/techcentre/static/js/2.47896b8d.chunk.js",
+  "static/js/2.47896b8d.chunk.js.map": "/techcentre/static/js/2.47896b8d.chunk.js.map",
+  "index.html": "/techcentre/index.html",
+  "precache-manifest.171ab04fd9a52d204f95f8086eae03dc.js": "/techcentre/precache-manifest.171ab04fd9a52d204f95f8086eae03dc.js",
+  "service-worker.js": "/techcentre/service-worker.js",
+  "static/css/2.6ec14f20.chunk.css.map": "/techcentre/static/css/2.6ec14f20.chunk.css.map",
+  "static/css/main.d0d02e63.chunk.css.map": "/techcentre/static/css/main.d0d02e63.chunk.css.map",
+  "static/media/aboutBcg.jpeg": "/techcentre/static/media/aboutBcg.7709c10e.jpeg",
+  "static/media/contactBcg.jpeg": "/techcentre/static/media/contactBcg.945afb99.jpeg",
+  "static/media/defaultBcg.jpeg": "/techcentre/static/media/defaultBcg.0819a816.jpeg",
+  "static/media/logo.svg": "/techcentre/static/media/logo.2b362308.svg",
+  "static/media/mainBcg.jpeg": "/techcentre/static/media/mainBcg.984874d1.jpeg",
+  "static/media/productsBcg.jpeg": "/techcentre/static/media/productsBcg.160fddff.jpeg",
+  "static/media/singleProductBcg.jpeg": "/techcentre/static/media/singleProductBcg.96758412.jpeg",
+  "static/media/storeBcg.jpeg": "/techcentre/static/media/storeBcg.46143c2f.jpeg"
+}
